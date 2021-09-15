@@ -5,8 +5,7 @@
 
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 22px;
-    font-style: italic;
+    font-size: 28px;
     color: rgb(5, 63, 170);
 }
 
@@ -20,10 +19,16 @@ body{
     background-color: rgb(212, 172, 248);
 }
 
+img.lado{
+    float: right;
+    padding: 10px;
+}
+
 main{
     background-color: white;
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    text-align: justify;
 }
